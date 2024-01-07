@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 
 /// Icons menu items
 
@@ -14,6 +13,8 @@ import 'package:flutter/material.dart';
 //2. Task completed : Icons.check_circle
 //3. In review: Icons.loop
 //4. In review: Icons.info
+//5. In table: Icons.pause
+//5. In table: Icons.play
 
 const String dashBoardIconFile = 'assets/icons/dashboard.png';
 const String integrationIconFile = 'assets/icons/integration.png';
